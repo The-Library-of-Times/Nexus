@@ -1,9 +1,14 @@
 # ***The Library of Times***
 Well then hello, and welcome to *The Library of Times*.
+
 A collection of stories and tales that connect the past, present, and future... the unknown, with facts and fantasy... the passion, with power and wisdom.
+
 This Library is, at all stakes, a fascinating adventure which you've just joined, and where I invite you to, at your very best, enjoy with all of your heart.
+
 My name is Saga, and I will be guiding you throughout this process of discovery, analysis and, of course, reading.
+
 This space is called the *Nexus* as it connects the remaining chambers and rooms of our beloved library.
+
 ## Chambers in The Library
 Our Library is composed of five main chambers:
 1. [**The Stream of Tales**](./README.md):
